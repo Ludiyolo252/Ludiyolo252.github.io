@@ -54,8 +54,7 @@ p1 {
  	display: flex;
  	justify-content: center;
  	align-items: center;
- 	border-radius: 20%;
- 	border: 0.5px solid #69d5c4;
+ 	border: 4px solid #69d5c4;
 }
 
 .cell-format:hover {
