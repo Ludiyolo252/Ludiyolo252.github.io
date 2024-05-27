@@ -2,10 +2,25 @@ body {
 	margin: 0;
 	padding: 0;
 	padding-top: 30px;
+	background-color: #2c2c2c;
 }
 
 body:focus {
 	outline: none;
+}
+
+h1 {
+	text-align: center;
+	color: #c39829;
+}
+
+p1 {
+	text-align: center;
+	font-size: 18pt;
+	font-weight: 100;
+	color: #fffef7;
+	margin-right: 80px;
+	margin-left: 80px;
 }
 
 .container {
@@ -33,7 +48,7 @@ body:focus {
  	justify-content: center;
  	align-items: center;
  	border-radius: 20%;
- 	border: 0.5px solid #cccece;
+ 	border: 0.5px solid #69d5c4;
 }
 
 .cell-format:hover {
@@ -50,6 +65,7 @@ body:focus {
 .letters-bingo {
 	padding: 0 1.3rem;
 	font-size: 40pt;
+	color: #69d5c4;
 	/* display: none; */
 }
 
