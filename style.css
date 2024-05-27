@@ -14,6 +14,13 @@ h1 {
 	color: #c39829;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 p1 {
 	text-align: center;
 	font-size: 18pt;
@@ -71,7 +78,7 @@ p1 {
 
 .strikeout {
 	text-decoration: line-through;
-	color: #a6a3a3;
+	color: #69d5c4;
 	font-size: 18pt;
 	pointer-events: none;
 }
