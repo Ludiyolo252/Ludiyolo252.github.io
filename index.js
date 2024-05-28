@@ -105,9 +105,12 @@ const arr = [
 	"“Wub!”",
 	"Lap rights",
 	"Lap rights REVOKED",
-	"Surprise supa kiss",
+	"Kiss after supa",
 	"Wink",
-	"“Canada isn't real”",
+	"“(Real world location) isn't real”",
+	"“Eat shit and live”",
+	"Chat spams :j",
+	"Aia calls someone short",
 	]
 
 shuffle(arr);
