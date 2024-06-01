@@ -113,7 +113,7 @@ const arr = [
 	"Aia calls someone short",
 	"Belly button M&M's mentioned",
 	"“What the hell brother?”",
-	"“I'm not cute!” (she is)"
+	"“I'm not cute!” (she is)",
 	]
 
 shuffle(arr);
