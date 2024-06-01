@@ -111,6 +111,9 @@ const arr = [
 	"“Eat shit and live”",
 	"Chat spams :j",
 	"Aia calls someone short",
+	"Belly button M&M mention",
+	"“What the hell brother?”",
+	"“I'm not cute!” (she is)"
 	]
 
 shuffle(arr);
