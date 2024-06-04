@@ -114,6 +114,11 @@ const arr = [
 	"Belly button M&M's mentioned",
 	"“What the hell brother?”",
 	"“I'm not cute!” (she is)",
+	"Ren Faire mention",
+	"Drag reference",
+	"“Hot choccy”",
+	"Aia calls chat stinky/smelly",
+	"Chip Skylark mention"
 	]
 
 shuffle(arr);
